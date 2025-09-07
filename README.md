@@ -24,7 +24,7 @@ Booking_Flag
 
 Output: Cleaned CSV/DataFrame ready for database insertion.
 
--------------------------------------------------------------------------------------------------------------
+
 
  Step 2: SQL – Load Clean Data into RDBMS
  -------------------------------------------------------------------
@@ -33,7 +33,7 @@ Create appropriate table schema (property_transactions).
 
 Insert cleaned data into MySQL using Python (SQLAlchemy).
 
--------------------------------------------------------------------------------
+
 
  Step 3: Power BI – Interactive Dashboard
  ----------------------------------------------
@@ -52,7 +52,7 @@ KPIs for Booking Conversion
 
 Insights from Buyer_Comments
 
-----------------------------------------------------------------------
+
 Future Scope
 ---------------------
 
@@ -68,7 +68,7 @@ Recommendation Systems: Personalized property suggestions.
 
 Scalability: Expand to pan-India luxury housing markets.
 
------------------------------------------------------------------
+
 
 Outcome
 -----------------
