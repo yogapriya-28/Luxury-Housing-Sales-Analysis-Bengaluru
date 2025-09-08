@@ -48,7 +48,7 @@ Filters: Builder, Quarter, Micro_Market
 
 Map visuals & geospatial insights
 
-KPIs for Booking Conversion
+Card visuals for top five performance
 
 Insights from Buyer_Comments
 
