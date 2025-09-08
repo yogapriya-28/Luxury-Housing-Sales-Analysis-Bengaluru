@@ -40,7 +40,7 @@ Insert cleaned data into MySQL using Python (SQLAlchemy).
 
 Connect Power BI to SQL database.
 
-Build relationships and DAX calculations.
+Build relationships 
 
 Create interactive dashboards with:
 
