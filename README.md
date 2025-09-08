@@ -20,7 +20,7 @@ Price_per_Sqft
 
 Quarter_Number
 
-Booking_Flag
+Booking_count
 
 Output: Cleaned CSV/DataFrame ready for database insertion.
 
