@@ -53,21 +53,6 @@ Card visuals for top five performance
 Insights from Buyer_Comments
 
 
-Future Scope
----------------------
-
-Predictive Analytics: Forecast housing prices & demand trends.
-
-Sentiment Analysis: Analyze buyer comments using NLP.
-
-Geospatial Insights: Advanced location-based investment analysis.
-
-Automated Dashboards: Real-time data integration via APIs.
-
-Recommendation Systems: Personalized property suggestions.
-
-Scalability: Expand to pan-India luxury housing markets.
-
 
 
 Outcome
